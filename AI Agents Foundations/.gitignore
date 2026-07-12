@@ -1,4 +1,1 @@
 
-GEMINI_API_KEY=AQ.Ab8RN6KPvk_Nqd_bV6MBz2z6NKVutUx1ZWM-OiMMxXHb-0Dj9A
-MODEL=gemini-2.5-flash
-base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
